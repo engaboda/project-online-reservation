@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Online Reservation</string>
+    <string name="user_email">الرقم القومي</string>
+    <string name="login">تسجيل دخول</string>
+</resources>
